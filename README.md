@@ -51,7 +51,7 @@ print("train.csv created successfully!")
 1. Ensure train.csv is in the same directory as your script.
 2. Execute the Python script:
 ```bash
-python main.py
+python main_np.py
 ```
 3. Watch the terminal for training progress updates (printing accuracy every 50 iterations).
 
